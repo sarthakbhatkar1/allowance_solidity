@@ -1,5 +1,6 @@
 # allowance_solidity
 
+```
 
 pragma solidity ^0.8.0;
 
@@ -124,3 +125,4 @@ library SafeMath {
         return c;
     }
 }
+```
